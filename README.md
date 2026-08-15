@@ -153,10 +153,11 @@ Person
 
 <img width="4884" height="6617" alt="employee_management_sample output " src="https://github.com/user-attachments/assets/4e6c411b-db97-4ff8-b7c9-6a1f8efb5610" />
 
+---
 
 ## 👩‍💻 Author
 
-## Bhavika
+ **Bhavika**
 📍 India
 
 ---
