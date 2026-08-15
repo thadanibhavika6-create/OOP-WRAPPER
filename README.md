@@ -10,7 +10,7 @@ A simple, menu-driven **console application** built in **Python** using **Object
 
 This project is an **Employee Management System** built using **core Python OOP** (no external libraries required). It allows a school, company, or admin to maintain Person, Employee, and Manager records directly from the terminal with a clean menu system.
 
-# visual explanation
+## 🖼️ visual explanation
 <img width="1400" height="816" alt="SAMPLE" src="https://github.com/user-attachments/assets/3da1de12-80d9-4e00-bfa5-dfa5c72dacb9" />
 
 ---
