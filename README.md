@@ -151,13 +151,13 @@ Person
 
 ## 🖥️ Sample Output
 
-<img width="735" alt="employee_management_output" src="employee_management_output.png" />
+![Uploading employee_management_sample output .png…]()
 
 ---
 
 ## 👩‍💻 Author
 
-**Bhavika**
+## Bhavika
 📍 India
 
 ---
