@@ -172,5 +172,6 @@ Suggestions, improvements, and pull requests are always welcome! Feel free to **
 ![License](https://img.shields.io/badge/License-MIT-9B59B6)
 ![Made with](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
+---
 
 > 🧑‍💼 *Managing People and Employees, One Record at a Time*
