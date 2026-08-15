@@ -164,8 +164,7 @@ Suggestions, improvements, and pull requests are always welcome! Feel free to **
 
 ---
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
-![OOP](https://img.shields.io/badge/Paradigm-OOP-FF6F00)
-![Status](https://img.shields.io/badge/Status-Completed-2ECC71)
+![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-9B59B6)
 ![Made with](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
